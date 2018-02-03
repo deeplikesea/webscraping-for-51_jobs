@@ -1,2 +1,2 @@
 # webscraping-for-51_jobs
-webscarping
+webscarping info about data science.
